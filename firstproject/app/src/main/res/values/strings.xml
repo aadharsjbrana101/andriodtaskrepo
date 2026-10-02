@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">firstproject</string>
+    <string name="title_activity_new_project">NewActivityProject</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_profile">ProfileActivity</string>
+    <string name="title_activity_spotifytask">Spotifytask</string>
+    <string name="title_activity_cardtask">cardtask</string>
+</resources>
